@@ -1,4 +1,3 @@
-<a name="readme-top"></a>
 
 <!--
 HOW TO USE:
@@ -36,12 +35,11 @@ After you're finished please remove all the comments and instructions!
   - [🛠 Built With Html and css](#-built-with-html-and-css)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
-  - [🚀 Live Demo https://github.com/DianaBeki/Hello-microverse/deployments/activity\_log?environment=github-pages](#-live-demo-httpsgithubcomdianabekihello-microversedeploymentsactivity_logenvironmentgithub-pages)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
     - [Install](#install)
-  - [👥 Authors ](#-authors-)
+  - [👥 Author ](#-author-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
@@ -52,8 +50,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Hello-microverse] <a href="https://github.com/DianaBeki/Hello-microverse"></a>
 
-- In this project i set up a "Hello World" repository.
-- Created file and added h1 tag element.
+- In this project I created index.html file and added text to h1 element and styled the text using CSS.
 
 ## 🛠 Built With <a name="built-with">Html and css</a>
 
@@ -79,20 +76,10 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
 
 - **[add h1 tag element]**
-  
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo">https://github.com/DianaBeki/Hello-microverse/deployments/activity_log?environment=github-pages</a>
-
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://github.com/DianaBeki/Hello-microverse/deployments/activity_log?environment=github-pages)
+- **[add style to h1 tag element]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -100,47 +87,39 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
 In order to run this project you need:
 
-<!--
-Example command:
 
 ```sh
- gem install rails
+ npm install
 ```
- -->
+
 
 ### Setup
 
 Clone this repository to your desired folder:
-git clone git@github.com:DianaBeki/Hello-microverse.git
-<!--
-Example commands:
+
 
 ```sh
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  git clone git@github.com:DianaBeki/Hello-microverse.git
 ```
---->
+-
 
 ### Install
 
 Install this project with:
 
-<!--
-Example command:
 
 ```sh
-  cd my-project
-  gem install
+  cd Hello-microverse
+  npm install
 ```
---->
+-
 
 
 
@@ -148,11 +127,11 @@ Example command:
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="Diana Beki"></a>
+## 👥 Author <a name="Diana Beki"></a>
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Diana Beki**
 
 - GitHub: [@githubhandle](https://github.com/DianaBeki)
 - Twitter: [@twitterhandle](https://twitter.com/home)
@@ -165,9 +144,8 @@ Example command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 
-- [] **[add h1 tag element]**
+- [] Add more content in the page
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -177,7 +155,7 @@ Example command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/DianaBeki/Hello-microverse/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -185,9 +163,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project give it a star
+If you like this project give it a star ⭐️
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -196,11 +172,8 @@ If you like this project give it a star
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-I would like to thank Microverse for this amazing project...
+I would like to thank Microverse for the project idea.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
