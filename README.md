@@ -52,8 +52,8 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Hello-microverse] <a href="https://github.com/DianaBeki/Hello-microverse"></a>
 
-> Describe your project in 1 or 2 sentences.
 - In this project i set up a "Hello World" repository.
+- Created file and added h1 tag element.
 
 ## 🛠 Built With <a name="built-with">Html and css</a>
 
